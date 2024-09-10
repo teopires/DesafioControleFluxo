@@ -42,7 +42,9 @@ O segundo parâmetro deve ser maior que o primeiro
 Estrutura do Projeto
 Contador.java: Contém a lógica principal do programa.
 ParametrosInvalidosException.java: Define a exceção customizada.
+
 Requisitos
 Java JDK 8 ou superior
+
 Autor
 Teo Pires Marques
